@@ -75,7 +75,7 @@ export default function Home() {
             </blockquote>
             <figcaption className="flex items-center justify-center space-x-3">
               <div className="space-y-0.5 font-medium dark:text-white text-left">
-                <a href="https://www.youtube.com/@user-gx3vi1dc3j" className="text-sm font-light text-gray-500 dark:text-gray-400">ヤマシロ鍼灸整骨院</a>
+                <a href="https://www.youtube.com/@user-gx3vi1dc3j" className="text-sm font-light text-gray-500 dark:text-gray-400">ユーチューブチャンネル</a>
               </div>
             </figcaption>    
           </figure>
