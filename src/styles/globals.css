@@ -90,3 +90,9 @@ html {
 *:hover {
     transition: all 400ms ease;
 }
+
+.works a {
+  text-decoration: underline;
+  color: skyblue;
+  text-decoration-color: skyblue;
+}
